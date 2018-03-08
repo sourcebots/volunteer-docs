@@ -1,0 +1,42 @@
+baseURL: https://volunteer.sourcebots.co.uk
+languageCode: en-gb
+title: SourceBots Volunteer Documentation
+theme: learn
+
+params:
+    author: SourceBots
+    description: SourceBots Volunteer Documentation
+    showVisitedLinks: false
+    disableInlineCopyToClipBoard: true
+    disableLanguageSwitchingButton: true
+    disableAssetsBusting: true
+    ordersectionsby: "weight"
+
+menu:
+    shortcuts:
+        - name: "<i class='fa fa-github'></i> Github Repo"
+          url: https://github.com/sourcebots/volunteer-docs
+
+        - name: "<i class='fa fa-globe'></i> Website"
+          url: https://sourcebots.co.uk/
+
+        - name: "<i class='fa fa-book'></i> Documentation"
+          url: https://docs.sourcebots.co.uk/
+
+enableGitInfo: true
+enableRobotsTXT: true
+disableHugoGeneratorInject: true
+enableEmoji: true
+taxonomies: []
+enableGitInfo: false
+pygmentsCodeFencesGuessSyntax: true
+disableKinds:
+    - taxonomy
+    - taxonomyTerm
+
+outputs:
+  home:
+    - html
+    - json
+
+buildFuture: true
