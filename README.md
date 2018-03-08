@@ -2,7 +2,7 @@
 
 [![CircleCI](https://circleci.com/gh/sourcebots/volunteer-docs.svg?style=svg)](https://circleci.com/gh/sourcebots/volunteer-docs)
 
-URL: https://volunteer.sourcebots.co.uk
+URL: https://volunteering.sourcebots.co.uk
 
 ## Requirements
 - [Hugo](https://gohugo.io) (>=0.33)
