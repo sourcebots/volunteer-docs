@@ -4,6 +4,7 @@
   "description": "",
   "scripts": {
     "spellcheck": "mdspell --en-gb --report --ignore-acronyms --ignore-numbers --no-suggestions 'content/**/*.md'",
+    "sorted-spelling": "./scripts/check-spelling-is-sorted.sh"
     "broken-link-local": "blcl --recursive --ordered --exclude-external ./public/",
     "broken-link-all": "blcl --recursive --ordered ./public/",
     "test": "npm run spellcheck && npm run broken-link-local",
