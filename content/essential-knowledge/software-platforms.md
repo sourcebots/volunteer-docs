@@ -1,5 +1,5 @@
 ---
-title: SourceBots Software and communications Platforms.
+title: Software and communications Platforms.
 ---
 
 ## Mailing list
@@ -25,8 +25,8 @@ Sign up at https://sourcebots.slack.com
 ## Trello
 
 Trello is mainly used for strategic planning.
-Trello tasks will refer to things such as milestones on github issues or other similar objectives, components of features, issues and bugs should be in the components issue tracker rather than trello.
-Some trello boards however will be used for tracking small tasks on things that don’t have a separate issue tracker.
+Trello tasks will refer to things such as milestones on github issues or other similar objectives, components of features, issues and bugs should be in the components issue tracker rather than Trello.
+Some Trello boards however will be used for tracking small tasks on things that don’t have a separate issue tracker.
 
 Trello can be accessed at https://trello.com/smallpeice2016
 
@@ -36,7 +36,7 @@ Trello can be accessed at https://trello.com/smallpeice2016
 Github is the main storage location for our version controlled code.
 It also provides issue tracking for the included repositories.
 
-The sourcebots github org can be found at https://github.com/sourcebots
+The SourceBots Github organisation can be found at https://github.com/sourcebots
 
 ## Google Docs
 
@@ -45,7 +45,7 @@ The google docs folder is used to store information that cannot or should not be
 https://drive.google.com/drive/folders/0Bx0mcmIgOQ42YVdaOU0yZ3IzMVk
 
 
-## Sourcebots emails
+## SourceBots emails
 
-sourcebots.org Email addresses issued for those interacting with teams or similar needs.
+sourcebots.co.uk Email addresses issued for those interacting with teams or similar needs.
 If you have a need of one ask at a meeting and one will be created for you.
