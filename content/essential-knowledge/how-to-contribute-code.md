@@ -1,10 +1,25 @@
-A guide on how to contribute code 
+# A guide on how to contribute code
 
-## How to set up github
+Welcome! If you're new to GitHub and open source, it can seem quite difficult to get started.
+Here is a step-by-step guide on how to contribute code to the SourceBots project!
+
+## How to set up GitHub
+Create a GitHub account: https://github.com/join
+
+It's useful to stay logged in, so it's as easy as possible to keep up to date and make contributions
+
 ## How to choose something to work on
+Have a look at [TODO: find page]
+
 ## Encouragement to make small changes
+We encourage you to make any changes, however small. e.g. if you spot a spelling error somewhere, why not fix it and make a pull request? This is a good way to familiarise yourself with the process, and is a good stepping stone towards larger contributions.
+
 ## How to make a small change (e.g. to website / docs) using GitHub online editor: *all* the steps. Make a commit to a new branch, submit a PR. In detail, for people who have never used git.
+TODO.
+
 ## How to set up git on your local machine
+TODO: join this with the later documentation. + perhaps add an external guide
+
 ## Using git by CLI / GitHub desktop app (e.g. adding some code)
 ## Conventions for PRs, commits, comments
 
