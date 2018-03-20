@@ -38,38 +38,3 @@ TODO:
 More advanced:
 * Code review (?)
 * Setting up dev environment
-
----
-title : How to set up git on your local machine
----
-
-# Linux
-For Debian based systems
-
-```sudo apt-get update
-sudo apt-get upgrade
-sudo apt-get install git
-```
-
-For Red Hat based systems
-
-```sudo yum upgrade
-sudo yum install git
-```
-
-
-# Mac
-Open terminal and type the following 
-```ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-brew doctor
-brew install git
-```
-
-
-# Windows 
-We recommend getting GitKraken from [download page](https://www.gitkraken.com/), run the 
-.exe (can someone else fill this in please)
-
-
-# SourceBots Volunteer Documentation
-This documentation contains information about how to setup github on your local machine 
