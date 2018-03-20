@@ -4,7 +4,7 @@ cp $1 $tmpfile
 scripts/sort.sh $tmpfile
 if diff -C3 $1 $tmpfile; then
     rm $tmpfile
-    echo "$1 file is fine"
+    echo "$1 file is correctly sorted"
     exit 0
 else
     rm $tmpfile
