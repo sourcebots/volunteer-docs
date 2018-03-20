@@ -8,11 +8,13 @@ This documentation contains information for volunteers about how SourceBots oper
 ## What is SourceBots?
 SourceBots is a volunteer organisation which runs exciting robotics challenges for teams of young people. Whilst based at the University of Southampton’s Department of Electronics and Computer Science and lead by its students, SourceBots contributors include teachers and professional engineers.
 
+You can view our main website [here](https://sourcebots.org/).
+
 ## How can I get involved? 🐝
 
-### Github 💻
+### GitHub 💻
 
-Much of our technical work is carried out on our [Github organisation](https://github.com/sourcebots/). It also contains the content for our websites.
+Much of our technical work is carried out on our [GitHub organisation](https://github.com/sourcebots/). It also contains the content for our websites.
 
 #### Issues
 - Submit a suggestion
