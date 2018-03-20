@@ -8,9 +8,9 @@ This documentation contains information for volunteers about how SourceBots oper
 ## What is SourceBots?
 SourceBots is a volunteer organisation which runs exciting robotics challenges for teams of young people. Whilst based at the University of Southampton’s Department of Electronics and Computer Science and lead by its students, SourceBots contributors include teachers and professional engineers.
 
-## How can I get involved?
+## How can I get involved? 🐝
 
-### Github
+### Github 💻
 
 Much of our technical work is carried out on our [Github organisation](https://github.com/sourcebots/). It also contains the content for our websites.
 
@@ -21,7 +21,7 @@ Much of our technical work is carried out on our [Github organisation](https://g
 #### Pull Requests
 We use pull requests to submit code for review to our repositories before it is merged into the master branch.
 
-### Meetings
+### Meetings 📅
 
 ![Mountbatten Building, University of Southampton](/img/mountbatten-building-53.jpg)
 
@@ -29,11 +29,11 @@ We meet weekly at the University of Southampton on Monday evenings at 6pm. Our u
 
 We also hold a Google Hangout call at the same time as this meeting. The link to the Hangout can be found in the agenda for the meeting.
 
-### At the competition
+### At the competition 🤖
 
 We welcome volunteers to help at our Tech Days and Competition. If you are interested, please get in touch via one of our communication channels.
 
-## How to get in touch
+## How to get in touch 📨
 - [Mailing list](https://groups.google.com/forum/#!forum/sourcebots)
 - [Slack](https://sourcebots.slack.com/)
 - In Person
