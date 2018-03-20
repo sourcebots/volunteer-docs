@@ -4,9 +4,9 @@ Welcome! If you're new to GitHub and open source, it can seem quite difficult to
 Here is a step-by-step guide on how to contribute code to the SourceBots project!
 
 ## How to set up GitHub
-Create a GitHub account: https://github.com/join
+Create a GitHub account: https://github.com/join, or log in if you already have an account.
 
-It's useful to stay logged in, so it's as easy as possible to keep up to date and make contributions
+It's useful to stay logged in, so it's as easy as possible to keep up to date and make contributions.
 
 ## How to choose something to work on
 Have a look at [TODO: find page]
@@ -18,9 +18,21 @@ We encourage you to make any changes, however small. e.g. if you spot a spelling
 TODO.
 
 ## How to set up git on your local machine
-TODO: join this with the later documentation. + perhaps add an external guide
+To make more advanced changes, it may be necessary to install and set up git on your local machine.
+To install git, see https://git-scm.com/book/en/v2/Getting-Started-Installing-Git.
+
+TODO:
+* adding ssh keys, where relevant
+* adding GitHub auth tokens, where relevant
+* ? does the GitHub desktop app, or GitKraken, or other IDEs guide you through this process well? Subsections maybe
 
 ## Using git by CLI / GitHub desktop app (e.g. adding some code)
+TODO:
+* setting up a new branch
+* how to make a commit
+* how to push to a branch
+
+
 ## Conventions for PRs, commits, comments
 
 More advanced:
@@ -55,7 +67,7 @@ brew install git
 
 
 # Windows 
-We recommend getting git kraken from [download page](https://www.gitkraken.com/), run the 
+We recommend getting GitKraken from [download page](https://www.gitkraken.com/), run the 
 .exe (can someone else fill this in please)
 
 
