@@ -2,7 +2,7 @@
 tmpfile=sortedchecktmpfile.tmp
 cp $1 $tmpfile
 scripts/sort.sh $tmpfile
-if diff --color -C3 $1 $tmpfile; then
+if diff -C3 $1 $tmpfile; then
     echo "$1 file is fine"
 else
     echo "$1 file is not sorted!"
