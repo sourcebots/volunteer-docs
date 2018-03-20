@@ -1,5 +1,5 @@
 #!/bin/bash
-tmpfile=sortedchecktmpfile.tmp
+tmpfile=$(mktemp /tmp/sorted.XXXXXXX)
 cp $1 $tmpfile
 scripts/sort.sh $tmpfile
 if diff -C3 $1 $tmpfile; then
