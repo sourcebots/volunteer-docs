@@ -44,12 +44,14 @@ To make more advanced changes, it may be necessary to install and set up git on 
 To install git, see https://git-scm.com/book/en/v2/Getting-Started-Installing-Git.
 
 TODO:
+
 * adding ssh keys, where relevant
 * adding GitHub auth tokens, where relevant
 * ? does the GitHub desktop app, or GitKraken, or other IDEs guide you through this process well? Subsections maybe
 
 ## Using git by CLI / GitHub desktop app (e.g. adding some code)
 TODO:
+
 * setting up a new branch on the SourceBots repo (not creating a fork)
 * how to make a commit
 * how to push to a branch
@@ -58,5 +60,6 @@ TODO:
 ## Conventions for PRs, commits, comments
 
 More advanced:
+
 * Code review (?)
 * Setting up dev environment
