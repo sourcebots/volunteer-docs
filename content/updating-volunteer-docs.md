@@ -40,7 +40,7 @@ It's a good idea to check what your website looks like by clicking on the 'Detai
 
 There are a few checks which run on the code, what follows is a quick summary of the most common errors and how to fix them:
 
-- **'Spelling errors found':** We have a spell checker, this is great for catching typos, but has quite a high false-positive rate. If you're certain you've spelt the word highlighted in red correctly, you can add it to the [.spelling file][spelling-file] (if using github, use the drop-down in the top left corner to select your branch before you make changes! This means it will update the pull request with your new change.)
+- **'Spelling errors found':** We have a spell checker, this is great for catching typos, but has quite a high false-positive rate. If you're certain you've spelt the word highlighted in red correctly, you can add it to the [.spelling file][spelling-file] (if using GitHub, use the drop-down in the top left corner to select your branch before you make changes! This means it will update the pull request with your new change.)
 
 ## Review process
 
