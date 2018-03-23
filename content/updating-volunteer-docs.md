@@ -36,6 +36,12 @@ If the CircleCI check fails, click on the 'Details' link to see what is broke (a
 
 It's a good idea to check what your website looks like by clicking on the 'Details' of the Netlify check. It should take you to a specially generated version of the site with your changes. You can then look for any obvious errors.
 
+### Troubleshooting errors
+
+There are a few checks which run on the code, what follows is a quick summary of the most common errors and how to fix them:
+
+- **'Spelling errors found':** We have a spell checker, this is great for catching typos, but has quite a high false-positive rate. If you're certain you've spelt the word highlighted in red correctly, you can add it to the [.spelling file][spelling-file] (if using github, use the drop-down in the top left corner to select your branch before you make changes! This means it will update the pull request with your new change.)
+
 ## Review process
 
 Once you submit a Pull Request, it is then sent for review by us. We will then comment on your changes, or if it seems fine we will approve it. Once it has been approved you can then click on the big green 'Merge pull request' button which will update the main website with your changes!
@@ -45,3 +51,4 @@ Once you submit a Pull Request, it is then sent for review by us. We will then c
 [content-dir]: https://github.com/sourcebots/volunteer-docs/tree/master/content
 [static]: https://github.com/sourcebots/volunteer-docs/tree/master/content
 [markdown-ref]: http://commonmark.org/
+[spelling-file]: https://github.com/sourcebots/volunteer-docs/blob/master/.spelling
