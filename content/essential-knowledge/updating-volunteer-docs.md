@@ -19,6 +19,8 @@ All pages are stored as [markdown][markdown-ref] files (ones ending in `.md`). O
 
 Once you've made your edit, scroll to the bottom and write what you changed in the 'Commit changes' box. Then pick a branch name, this should just be a summary of your changes in a shortened form. Once you've done this, then click 'Commit Changes' button. This will take you to the 'Open a pull request' page, (see the 'Creating a Pull Request' section below).
 
+![Commit Changes form asking for you to fill out the changes to commit](/img/essential-knowledge/updating-docs/commit-changes.png)
+
 # Creating a Pull Request
 
 Once you've clicked the 'Commit Changes' button in GitHub, or if you've just pushed a change manually, you can open a pull request.
