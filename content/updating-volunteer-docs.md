@@ -15,6 +15,8 @@ These pages are stored in GitHub on the [volunteer-docs repository][volunteer-do
 
 All pages are stored as [markdown][markdown-ref] files (ones ending in `.md`). Once you've found the file for the page you want to edit  (`updating-volunteer-docs.md` in this case), simply open the file, then click on the little pencil in the top-right corner to start editing.
 
+![Pencil icon to click on for editing](/img/updating-docs/pencil.png)
+
 Once you've made your edit, scroll to the bottom and write what you changed in the 'Commit changes' box. Then pick a branch name, this should just be a summary of your changes in a shortened form. Once you've done this, then click 'Commit Changes' button. This will take you to the 'Open a pull request' page, (see the 'Creating a Pull Request' section below).
 
 # Creating a Pull Request
