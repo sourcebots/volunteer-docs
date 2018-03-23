@@ -4,7 +4,7 @@ title: How to update the volunteer docs
 
 We have a documentation site on how to volunteer (you're currently on it). Everyone can edit or add to this documentation (even competitors) This page gives you some tips on how to do so.
 
-# Editing a page in GitHub
+## Editing a page in GitHub
 
 Lets say you've spotted some bad grammar on this page, and you want to edit the page to fix it.
 
@@ -21,7 +21,7 @@ Once you've made your edit, scroll to the bottom and write what you changed in t
 
 ![Commit Changes form asking for you to fill out the changes to commit](/img/essential-knowledge/updating-docs/commit-changes.png)
 
-# Creating a Pull Request
+## Creating a Pull Request
 
 Once you've clicked the 'Commit Changes' button in GitHub, or if you've just pushed a change manually, you can open a pull request.
 
@@ -31,7 +31,7 @@ The text should automatically be filled out for you, so as long as it makes sens
 
 ![Form for creating a pull request](/img/essential-knowledge/updating-docs/pull-request.png)
 
-## Pull Request checks
+### Pull Request checks
 
 There are also a few checks which run when you create a pull request, these show up at the bottom of the page a minute or to after you've made a pull request. click 'Show All checks' to see all of them. These checks include:
 
@@ -44,7 +44,7 @@ It's a good idea to check what your website looks like by clicking on the 'Detai
 
 ![Passing pull request checks](/img/essential-knowledge/updating-docs/pull-request-checks.png)
 
-### Troubleshooting errors
+#### Troubleshooting errors
 
 There are a few checks which run on the code, what follows is a quick summary of the most common errors and how to fix them:
 
@@ -52,7 +52,7 @@ There are a few checks which run on the code, what follows is a quick summary of
 
 - **'N broken' broken links**: We have a checker for broken links, this means one of the links you added was broken, but sometimes means that a site we have previously linked to has just gone down. If you didn't add the link, comment the fact then ignore it.
 
-## Review process
+### Review process
 
 Once you submit a Pull Request, it is then sent for review by us. We will then comment on your changes, or if it seems fine we will approve it. Once it has been approved you can then click on the big green 'Merge pull request' button which will update the main website with your changes!
 
