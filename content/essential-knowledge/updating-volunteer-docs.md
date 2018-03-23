@@ -44,6 +44,8 @@ There are a few checks which run on the code, what follows is a quick summary of
 
 - **'Spelling errors found':** We have a spell checker, this is great for catching typos, but has quite a high false-positive rate. If you're certain you've spelt the word highlighted in red correctly, you can add it to the [.spelling file][spelling-file] (if using GitHub, use the drop-down in the top left corner to select your branch before you make changes! This means it will update the pull request with your new change.)
 
+- **'N broken' broken links**: We have a checker for broken links, this means one of the links you added was broken, but sometimes means that a site we have previously linked to has just gone down. If you didn't add the link, comment the fact then ignore it.
+
 ## Review process
 
 Once you submit a Pull Request, it is then sent for review by us. We will then comment on your changes, or if it seems fine we will approve it. Once it has been approved you can then click on the big green 'Merge pull request' button which will update the main website with your changes!
