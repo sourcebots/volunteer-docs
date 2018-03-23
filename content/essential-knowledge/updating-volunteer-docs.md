@@ -29,6 +29,8 @@ A Pull Request is a request for changes to be 'pulled' into the main version of 
 
 The text should automatically be filled out for you, so as long as it makes sense, click the 'Create pull request' button. This will request for people to take a look at your changes and review it.
 
+![Form for creating a pull request](/img/essential-knowledge/updating-docs/pull-request.png)
+
 ## Pull Request checks
 
 There are also a few checks which run when you create a pull request, these show up at the bottom of the page a minute or to after you've made a pull request. click 'Show All checks' to see all of them. These checks include:
@@ -39,6 +41,8 @@ There are also a few checks which run when you create a pull request, these show
 If the CircleCI check fails, click on the 'Details' link to see what is broke (ask for help in the comments on if you don't know what is broken or how to fix it. Errors tend to be a bit cryptic)
 
 It's a good idea to check what your website looks like by clicking on the 'Details' of the Netlify check. It should take you to a specially generated version of the site with your changes. You can then look for any obvious errors.
+
+![Passing pull request checks](/img/essential-knowledge/updating-docs/pull-request-checks.png)
 
 ### Troubleshooting errors
 
