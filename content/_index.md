@@ -35,7 +35,13 @@ We also hold a Google Hangout call at the same time as this meeting. The link to
 
 We welcome volunteers to help at our Tech Days and Competition. If you are interested, please get in touch via one of our communication channels.
 
+### Calendar
+
+We list our events on a public [Google Calendar][calendar]
+
 ## How to get in touch 📨
 - [Mailing list](https://groups.google.com/forum/#!forum/sourcebots)
 - [Slack](https://sourcebots.slack.com/)
 - In Person
+
+[calendar]: https://calendar.google.com/calendar?cid=bnQzODYwdjJvMDZtcjUwcDczaW5ncTVscm9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
