@@ -42,7 +42,7 @@ There are also a few checks which run when you create a pull request, these show
 
 If the CircleCI check fails, click on the 'Details' link to see what is broke (ask for help in the comments on if you don't know what is broken or how to fix it. Errors tend to be a bit cryptic)
 
-It's a good idea to check what your website looks like by clicking on the 'Details' of the Netlify check. It should take you to a specially generated version of the site with your changes. You can then look for any obvious errors.
+It's a good idea to check what your website looks like by clicking on the 'Details' of the Netlify check. It will take you to a specially generated version of the site with your changes. You can then look for any obvious errors.
 
 ![Passing pull request checks](/img/essential-knowledge/updating-docs/pull-request-checks.png)
 
