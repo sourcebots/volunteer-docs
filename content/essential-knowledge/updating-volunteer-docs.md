@@ -10,6 +10,8 @@ Lets say you've spotted some bad grammar on this page, and you want to edit the 
 
 These pages are stored in GitHub on the [volunteer-docs repository][volunteer-docs]. This is where you should go to make your changes.
 
+To make your changes you need to be logged in on GitHub, if you don't have an account you should [sign up to GitHub][register-github].
+
 - All content is available in the [content folder][content-dir].
 - All images/extra files are in the [static folder][static].
 
@@ -62,3 +64,4 @@ Once you submit a Pull Request, it is then sent for review by us. We will then c
 [static]: https://github.com/sourcebots/volunteer-docs/tree/master/content
 [markdown-ref]: http://commonmark.org/
 [spelling-file]: https://github.com/sourcebots/volunteer-docs/blob/master/.spelling
+[register-github]: https://github.com/join
