@@ -28,7 +28,7 @@ It's recommended that you print a label for things to better track them. If you 
 
 To remove an item, mark them as deleted by setting the font as strike-through, and marking it as removed in the notes column. You should never delete rows in the inventory, otherwise there is a chance of a duplicate barcode being used for two different things.
 
-[inventory-spreadsheet]: https://docs.google.com/spreadsheets/d/1C0oOGQNJ-7rAppNlEvt1zI5zew3wNtpBUpZjMcK-Ork/edit?usp=sharing
+[inventory-spreadsheet]: https://docs.google.com/spreadsheets/d/1C0oOGQNJ-7rAppNlEvt1zI5zew3wNtpBUpZjMcK-Ork/ 
 [barcode-gen]: https://github.com/sourcebots/barcode-gen
 [brother-ql570]: https://www.brother.co.uk/labelling/ql-printers/ql570
 [sort-and-filter]: https://support.google.com/docs/answer/3540681
