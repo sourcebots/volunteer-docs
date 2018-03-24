@@ -19,21 +19,21 @@ All pages are stored as [markdown][markdown-ref] files (ones ending in `.md`). O
 
 ![Pencil icon to click on for editing](/img/essential-knowledge/updating-docs/pencil.png)
 
-Once you've made your edit, scroll to the bottom and write what you changed in the 'Commit changes' box. Then pick a branch name, this should just be a summary of your changes in a shortened form, spaces aren't allowed. Once you've done this, then click the 'Propose file change' button. This will take you to the 'Open a pull request' page, (see the 'Creating a Pull Request' section below).
+Once you've made your edit, scroll to the bottom and write what you changed in the 'Commit changes' box. Then pick a branch name, this should just be a summary of your changes in a shortened form, spaces aren't allowed. Once you've done this, then click the 'Propose file change' button. This will take you to the 'Open a pull request' page, (see the 'Creating a pull request' section below).
 
 ![Commit Changes form asking for you to fill out the changes to commit](/img/essential-knowledge/updating-docs/commit-changes.png)
 
-## Creating a Pull Request
+## Creating a pull request
 
 Once you've clicked the 'Commit Changes' button in GitHub, or if you've just pushed a change manually, you can open a pull request.
 
-A Pull Request is a request for changes to be 'pulled' into the main version of the website (aka the master version).
+A pull request is a request for changes to be 'pulled' into the main version of the website (aka the master version).
 
 The text should automatically be filled out for you, so as long as it makes sense, click the 'Create pull request' button. This will request for people to take a look at your changes and review it.
 
 ![Form for creating a pull request](/img/essential-knowledge/updating-docs/pull-request.png)
 
-### Pull Request checks
+### Pull request checks
 
 There are also a few checks which run when you create a pull request, these show up at the bottom of the page a minute or to after you've made a pull request. click 'Show All checks' to see all of them. These checks include:
 
@@ -56,7 +56,7 @@ There are a few checks which run on the code, what follows is a quick summary of
 
 ### Review process
 
-Once you submit a Pull Request, it is then sent for review by us. If you know a specific person who should take a look, you can add them in the dropdown on the right, otherwise someone will pick it up when they're free. We will then comment on your changes, or if it seems fine we will approve it. Once it has been approved you can then click on the big green 'Merge pull request' button which will update the main website with your changes! After this you should click the 'Delete branch' button to clean up the branch you made.
+Once you submit a pull request, it is then sent for review by us. If you know a specific person who should take a look, you can add them in the dropdown on the right, otherwise someone will pick it up when they're free. We will then comment on your changes, or if it seems fine we will approve it. Once it has been approved you can then click on the big green 'Merge pull request' button which will update the main website with your changes! After this you should click the 'Delete branch' button to clean up the branch you made.
 
 ![A fully approved pull request](/img/essential-knowledge/updating-docs/merge-pull-request.png)
 
