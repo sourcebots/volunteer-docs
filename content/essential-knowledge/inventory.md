@@ -8,7 +8,7 @@ Our current inventory takes the form of a [Google Spreadsheet][inventory-spreads
 
 ## Updating the location of items
 
-To update the location of an item, simply change the location column, if the item is inside a container, put the serial of the container. You should also update the 'Date last updated' field.
+To update the location of an item, simply change the location column, if the item is inside a container, put the item code of the container. You should also update the 'Date last updated' field.
 
 ## Finding items
 
@@ -18,9 +18,9 @@ To update the location of an item, simply change the location column, if the ite
 
 ## Adding items
 
-Tools for generating new part codes are provided in the 'Inventory' tab on the top of the page.
+Tools for generating new item codes are provided in the 'Inventory' tab on the top of the page.
 
-Once new part codes are generated, you should update the summary and location of the item.
+Once new item codes are generated, you should update the summary and location of the item.
 
 It's recommended that you print a label for things to better track them. If you have access to a more advanced label printer (like a [brother QL570][brother-ql570]), there are some barcode generation scripts available in the [barcode-gen GitHub repository][barcode-gen] which use the `brother-ql-create` script to automatically print labels.
 
