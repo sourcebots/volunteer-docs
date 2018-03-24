@@ -24,7 +24,7 @@ Much of our technical work is carried out on our [GitHub organisation](https://g
 We use Git, a version control system to manage our codebase.
 You can make a Pull Request to submit code for review to our repositories before it is merged into the master branch.
 
-### Meetings 📅
+### Meetings
 
 ![Mountbatten Building, University of Southampton](/img/mountbatten-building-53.jpg)
 
@@ -34,9 +34,9 @@ We also hold a Google Hangout call at the same time as this meeting. The link to
 
 ### At the competition 🤖
 
-We welcome volunteers to help at our Tech Days and Competition. If you are interested, please get in touch via one of our communication channels.
+We welcome volunteers to help at our Tech Days and Competition. If you are interested, please get in touch via one of [our communication channels](#how-to-get-in-touch).
 
-### Calendar
+### Calendar 📅
 
 We list our events on a public [Google Calendar][calendar].
 
