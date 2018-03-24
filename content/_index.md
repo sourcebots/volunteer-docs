@@ -21,15 +21,16 @@ Much of our technical work is carried out on our [GitHub organisation](https://g
 - Submit a bug
 
 #### Pull Requests
-We use pull requests to submit code for review to our repositories before it is merged into the master branch.
+We use Git, a version control system to manage our codebase.
+You can make a Pull Request to submit code for review to our repositories before it is merged into the master branch.
 
 ### Meetings 📅
 
 ![Mountbatten Building, University of Southampton](/img/mountbatten-building-53.jpg)
 
-We meet weekly at the University of Southampton on Monday evenings at 6pm. Our usual location is in Building 53 (Mountbatten), Room 4025. However, this is subject to change if the room is in use for other activities. Any room changes will be announced prior to the meeting. If you would like to join us for a meeting, please get in touch via one of the methods below as access to the building is restricted.
+We meet weekly at the University of Southampton on Monday evenings at 6pm. Our usual location is in Building 53 (Mountbatten), Room 4025. However, this is subject to change if the room is in use for other activities. Any room changes will be announced  on the mailing list prior to the meeting. If you would like to join us for a meeting, please get in touch via one of the methods below as access to the building is restricted.
 
-We also hold a Google Hangout call at the same time as this meeting. The link to the Hangout can be found in the agenda for the meeting.
+We also hold a Google Hangout call at the same time as this meeting. The link to the Hangout is usually posted in the agenda.
 
 ### At the competition 🤖
 
