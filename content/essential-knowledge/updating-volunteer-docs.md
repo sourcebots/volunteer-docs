@@ -6,7 +6,7 @@ We have a documentation site on how to volunteer (you're currently on it). Every
 
 ## Editing a page in GitHub
 
-Let's say you've spotted some bad grammar on this page, and you want to edit the page to fix it.
+Let's say you've spotted some bad grammar on this page, and you want to make an edit to fix it.
 
 These pages are stored in GitHub on the [volunteer-docs repository][volunteer-docs]. This is where you should go to make your changes.
 
