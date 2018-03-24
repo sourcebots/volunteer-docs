@@ -56,7 +56,9 @@ There are a few checks which run on the code, what follows is a quick summary of
 
 ### Review process
 
-Once you submit a Pull Request, it is then sent for review by us. We will then comment on your changes, or if it seems fine we will approve it. Once it has been approved you can then click on the big green 'Merge pull request' button which will update the main website with your changes!
+Once you submit a Pull Request, it is then sent for review by us. We will then comment on your changes, or if it seems fine we will approve it. Once it has been approved you can then click on the big green 'Merge pull request' button which will update the main website with your changes! After this you should click the 'Delete branch' button to clean up the branch you made.
+
+![Delete Branch button](/img/essential-knowledge/updating-docs/delete-branch.png)
 
 [volunteer-docs]: https://github.com/sourcebots/volunteer-docs/
 [content-dir]: https://github.com/sourcebots/volunteer-docs/tree/master/content
