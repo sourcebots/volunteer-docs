@@ -10,7 +10,7 @@ SourceBots is a volunteer organisation which runs exciting robotics challenges f
 
 You can view our [main website](https://sourcebots.org/) to see the external-facing side of the competition.
 
-## How can I get involved? 🐝
+## How can I get involved?
 
 ### GitHub 💻
 
