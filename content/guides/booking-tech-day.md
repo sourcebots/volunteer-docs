@@ -1,6 +1,6 @@
 ---
-+title: Booking a tech day
-+---
+title: Booking a tech day
+---
 
 ## Booking a tech day 
 
