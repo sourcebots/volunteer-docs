@@ -1,5 +1,5 @@
 ---
-title: Booking a tech day
+title: Booking a Tech Day
 ---
 
 During a competition, we host multiple events throughout the year called tech days where the competitors have the opportunity to come to the university and work on their robots whilst also receiving mentoring from us!
@@ -7,7 +7,7 @@ During a competition, we host multiple events throughout the year called tech da
 This guide will describe the typical rooms that we use for the tech days and the process you need to take in order to secure them!
 
 {{% notice tip %}}
-Due to the rooms being part of the university, the following guide assumes you are a member of the University Of Southampton - if you are any doubt ask a question through one of the communication channels described earlier in these docs!
+As these rooms are part of the University of Southampton, it is required that you are a current student / staff member in order to book them.
 {{% /notice %}}
 
 ## The rooms 
@@ -16,7 +16,7 @@ There are 2 areas we use for the tech days:
 
 ### 1 - Building 25
 
-//TODO: Insert stuff
+![Building 25](/img/building-25-map.jpg)
 
 ### 2 - Building 53 (Zepler Level 2)
 
