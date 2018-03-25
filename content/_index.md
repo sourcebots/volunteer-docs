@@ -12,7 +12,7 @@ You can view our [main website](https://sourcebots.org/) to see the external-fac
 
 ## How can I get involved?
 
-### GitHub 💻
+### GitHub
 
 Much of our technical work is carried out on our [GitHub organisation](https://github.com/sourcebots/). It also contains the content for our websites.
 
@@ -32,15 +32,15 @@ We meet weekly at the University of Southampton on Monday evenings at 6pm. Our u
 
 We also hold a Google Hangout call at the same time as this meeting. The link to the Hangout is usually posted in the agenda.
 
-### At the competition 🤖
+### At the competition
 
 We welcome volunteers to help at our Tech Days and Competition. If you are interested, please get in touch via one of [our communication channels](#how-to-get-in-touch).
 
-### Calendar 📅
+### Calendar
 
 We list our events on a public [Google Calendar][calendar].
 
-## How to get in touch 📨
+## How to get in touch
 - [Mailing list](https://groups.google.com/forum/#!forum/sourcebots)
 - [Slack](https://sourcebots.slack.com/)
 - In Person
