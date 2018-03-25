@@ -16,7 +16,7 @@ There are 2 areas we use for the tech days:
 
 ### 1 - Building 25
 
-![Building 25](/img/building-25-map.jpg)
+![Building 25](/img/building-25-map.png)
 
 ### 2 - Building 53 (Zepler Level 2)
 
