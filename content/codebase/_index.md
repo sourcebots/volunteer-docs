@@ -7,7 +7,7 @@ weight: 1
 This section is still under development and some parts may be missing.
 {{% /notice %}}
 
-This page contains a summary of the repositories on [our GitHub][sb-github].
+This page contains a summary of the repositories on [GitHub][sb-github].
 
 ## Administration
 
