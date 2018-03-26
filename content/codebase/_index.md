@@ -33,12 +33,19 @@ This page contains a summary of the repositories on [Our GitHub][sb-github].
 | power-v4-hw | {{< github "sourcebots/power-v4-hw" >}} |           |
 | sym         | {{< github "sourcebots/sym" >}}         |           |
 
+## Media
+
+| Name           | GitHub Repository                          | More Info |
+| -------------- | ------------------------------------------ | --------- |
+| art            | {{< github "sourcebots/art" >}}            |           |
+| docs           | {{< github "sourcebots/docs" >}}           |           |
+| Mainroad       | {{< github "sourcebots/Mainroad" >}}       |           |
+| volunteer-docs | {{< github "sourcebots/volunteer-docs" >}} |           |
+
 ## Misc
 
 | Name              | GitHub Repository                             | More Info |
 | ----------------- | --------------------------------------------- | --------- |
-| art               | {{< github "sourcebots/art" >}}               |           |
-| Arturo            | {{< github "sourcebots/Arturo" >}}            |           |
 | blocklyscienceday | {{< github "sourcebots/blocklyscienceday" >}} |           |
 | testing-repo      | {{< github "sourcebots/testing-repo" >}}      |           |
 
@@ -63,19 +70,12 @@ This page contains a summary of the repositories on [Our GitHub][sb-github].
 
 | Name          | GitHub Repository                         | More Info |
 | ------------- | ----------------------------------------- | --------- |
+| Arturo        | {{< github "sourcebots/Arturo" >}}        |           |
 | barcode-gen   | {{< github "sourcebots/barcode-gen" >}}   |           |
 | kit-testing   | {{< github "sourcebots/kit-testing" >}}   |           |
 | marker-to-pdf | {{< github "sourcebots/marker-to-pdf" >}} |           |
 | pcb-util      | {{< github "sourcebots/pcb-util" >}}      |           |
 | srcomp-kiosk  | {{< github "sourcebots/srcomp-kiosk" >}}  |           |
 | tools         | {{< github "sourcebots/tools" >}}         |           |
-
-## Websites
-
-| Name           | GitHub Repository                          | More Info  |
-| -------------- | ------------------------------------------ | ---------- |
-| docs           | {{< github "sourcebots/docs" >}}           |            |
-| Mainroad       | {{< github "sourcebots/Mainroad" >}}       |            |
-| volunteer-docs | {{< github "sourcebots/volunteer-docs" >}} |            |
 
 [sb-github]: https://github.com/sourcebots
