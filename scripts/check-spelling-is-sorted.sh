@@ -1,5 +1,5 @@
 #!/bin/sh
-if sort --check --unique $1; then
+if LC_COLLATE=C sort --check --unique $1; then
     echo "$1 file is correctly sorted"
     exit 0
 else
