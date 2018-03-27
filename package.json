@@ -4,10 +4,11 @@
   "description": "",
   "scripts": {
     "spellcheck": "mdspell --en-gb --report --ignore-acronyms --ignore-numbers --no-suggestions 'content/**/*.md'",
+    "check-spelling-sorted": "scripts/check-spelling-is-sorted.sh .spelling",
     "broken-link-local": "blcl --recursive --ordered --exclude-external ./public/",
     "broken-link-all": "blcl --recursive --ordered ./public/",
-    "test": "npm run spellcheck && npm run broken-link-local",
-    "ci-test": "npm run spellcheck && npm run broken-link-all"
+    "test": "npm run spellcheck && npm run check-spelling-sorted && npm run broken-link-local",
+    "ci-test": "npm run spellcheck && npm run check-spelling-sorted && npm run broken-link-all"
   },
   "repository": {
     "type": "git",
