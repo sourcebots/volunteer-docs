@@ -48,6 +48,17 @@ a:hover {
     color: var(--MAIN-LINK-HOVER-color);
 }
 
+#body:before {
+    content: "Volunteering documentation";
+    text-align: center;
+    font-weight: bold;
+    background: var(--MENU-HEADER-BG-color);
+    color: white;
+    background-image: url("/img/groovepaper.png");
+    display: block;
+    width: 100%;
+}
+
 #sidebar ul li.visited > a .read-icon {
 	color: var(--MENU-VISITED-color);
 }
