@@ -11,6 +11,7 @@ params:
     disableLanguageSwitchingButton: true
     disableAssetsBusting: true
     ordersectionsby: "weight"
+    themeVariant: "mine"
 
 menu:
     shortcuts:
