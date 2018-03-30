@@ -33,35 +33,4 @@ This diagram represents a simplified structure of the classes inside robotD and 
 
 ## Classes
 
-### BoardMeta
-
-| Class:         | BoardMeta         |
-| -------------- | ----------------- |
-| Inherits From: | `type`            |
-| Subclasses:    | `Board`           |
-| File:          | `devices_base.py` |
-
-This is a [MetaClass](Some Python Docs) that manages the creation of Boards.
-
-It creates a list of all boards that have been defined in `BoardMeta.BOARDS`.
-
-### Board
-
-| Class:         | Board             |
-| -------------- | ----------------- |
-| Inherits From: | `object`          |
-| Subclasses:    | `Lots of Boards`  |
-| File:          | `devices_base.py` |
-
-This class defines a generic device with empty methods. Subclasses of `Board` define how to detect these boards and how to interact with them. It is created using a MetaClass: `BoardMeta`.
-
-It is worth noting that `Board` is likely to be renamed in the future as not all peripherals are boards
-
-### Connection
-
-| Class:         | Connection  |
-| -------------- | ----------- |
-| Inherits From: | `object`    |
-| File:          | `master.py` |
-
-This class provides an abstraction around the socket  such that `robot-api` can communicate with the `Board` classes using 
+{{% display_classes "robotd" %}}

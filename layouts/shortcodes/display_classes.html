@@ -1,0 +1,28 @@
+{{ with (index .Site.Data.codebase (.Get 0)) }}
+  {{ range .classes }}
+    <h3> {{ .class.name }} </h3>
+    <table>
+      <tr>
+        <td>File:</td>
+        <td>{{ .class.file }}</td>
+      </tr>
+      {{ if isset .class "inherits" }}
+        <tr>
+          <td>Inherits From:</td>
+          <td><code>{{ .class.inherits }}</code></td>
+        </tr>
+      {{ end }}
+      {{ if isset .class "subclasses" }}
+        <tr>
+          <td>Subclasses:</td>
+          <td>
+            {{ range .class.subclasses }}
+              <code>{{ . }}</code>&nbsp;
+            {{ end }}
+          </td>
+        </tr>
+      {{ end }}
+    </table>
+    <p> {{ .class.description | markdownify | safeHTML }} </p>
+  {{ end }}
+{{ end }}
