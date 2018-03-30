@@ -5,7 +5,7 @@ classes:
       inherits: type
       subclasses:
         - Board
-      description: This is a [MetaClass](Some Python Docs) that manages the creation of Boards. It creates a list of all boards that have been defined in `BoardMeta.BOARDS`.
+      description: This is a MetaClass that manages the creation of Boards. It creates a list of all boards that have been defined in `BoardMeta.BOARDS`.
   - class:
       name: Board
       file: devices_base.py
