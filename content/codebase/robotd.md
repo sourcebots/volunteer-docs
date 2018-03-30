@@ -2,11 +2,13 @@
 title: RobotD
 ---
 
-RobotD runs a master process which motors for robot peripherals. For each peripheral it finds, it opens a UNIX seqpacket socket in `/var/robotd/<type>/<id>`.
+{{% notice info %}}
+This page details information about how the code works that is beyond the scope of the README file. The information is not guarenteed to be completely up to date, but is intended to give a general overview of the structure and workings of the module.
+{{% /notice %}}
+
+RobotD runs a master process which monitors for robot peripherals. For each peripheral it finds, it opens a [UNIX seqpacket socket](Link to info about unix sockets) in `/var/robotd/<type>/<id>`.
 
 You can find out more about how to use it at the GitHub page: {{< github "sourcebots/robotd" >}}.
-
-This page details information about how the code works that is beyond the scope of the README file. The information is not guarenteed to be completely up to date, but is intended to give a general overview of the structure and workings of the module.
 
 ## Diagram of RobotD
 
@@ -29,7 +31,10 @@ end
 
 This diagram represents a simplified structure of the classes inside robotD and how they interact with each other. More information on the individual classes can be found below.
 
-## BoardMeta
+## Classes
+
+### BoardMeta
+
 | Class:         | BoardMeta         |
 | -------------- | ----------------- |
 | Inherits From: | `type`            |
@@ -40,7 +45,7 @@ This is a [MetaClass](Some Python Docs) that manages the creation of Boards.
 
 It creates a list of all boards that have been defined in `BoardMeta.BOARDS`.
 
-## Board
+### Board
 
 | Class:         | Board             |
 | -------------- | ----------------- |
@@ -48,3 +53,15 @@ It creates a list of all boards that have been defined in `BoardMeta.BOARDS`.
 | Subclasses:    | `Lots of Boards`  |
 | File:          | `devices_base.py` |
 
+This class defines a generic device with empty methods. Subclasses of `Board` define how to detect these boards and how to interact with them. It is created using a MetaClass: `BoardMeta`.
+
+It is worth noting that `Board` is likely to be renamed in the future as not all peripherals are boards
+
+### Connection
+
+| Class:         | Connection  |
+| -------------- | ----------- |
+| Inherits From: | `object`    |
+| File:          | `master.py` |
+
+This class provides an abstraction around the socket  such that `robot-api` can communicate with the `Board` classes using 
