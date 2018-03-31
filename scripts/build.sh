@@ -6,4 +6,4 @@ export PATH=node_modules/.bin:${PATH}
 
 rm -rf public/
 
-hugo -v
+hugo -v --ignoreCache

@@ -1,0 +1,15 @@
+{{ $index := getJSON "https://api.github.com/repositories/73184955/contents" }}
+
+{{ range sort $index "name" "desc" }}
+  {{ if eq .type "dir" }}
+    <h2>{{ .name }}</h2>
+    <table>
+      {{ $year := getJSON "https://api.github.com/repositories/73184955/contents/" .path }}
+      {{range sort $year "name" "desc" }}
+        <tr>
+          <td><a href="{{ .html_url }}">{{ humanize (strings.TrimRight ".md" .name) }}</a></td>
+        </tr>
+      {{ end }}
+    <table>
+  {{ end }}
+{{ end }}
