@@ -20,7 +20,7 @@ jobs:
                 command: npm install
             - run:
                 name: Build site
-                command: ./scripts/build.sh
+                command: ./scripts/build-online.sh
             - run:
                 name: Run Tests
                 command: npm run ci-test
