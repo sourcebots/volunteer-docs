@@ -11,7 +11,7 @@ Companies that sponsor us are as follows:
 
 We are sponsored by the University of Southampton electronics and Computer Science Department, so that we can be a source of recruitment for potential STEM students, currently in their A-level/sixth-form years and looking at universities for electronics or computer science.
 
-## [Farnell element14][element14-website]
+## [Farnell element14][farnell-website]
 
 ![element14 Logo](/img/essential-knowledge/sponsors/element14.svg)
 
