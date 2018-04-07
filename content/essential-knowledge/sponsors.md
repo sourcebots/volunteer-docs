@@ -1,5 +1,5 @@
 ---
-title: Who we're sponsored by
+title: Our Sponsors
 ---
 
 When running the competition and any public-facing parts of our organisation, it is important to bear in mind and give credit to the companies/organisations that support us; in other words putting their logo on things and thanking them where thanks are due.
