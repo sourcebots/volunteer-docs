@@ -16,9 +16,9 @@ We are sponsored by the University of Southampton electronics and Computer Scien
 ![element14 Logo](/img/essential-knowledge/sponsors/element14.svg)
 
 Farnell supports us by providing components for the kits.
-In return we write blog posts for their website for other societies or organisations trying to do similar things(i.e. running robotics competitions, building competition-running software).
+We write blog posts for their website for other societies or organisations trying to do similar things(i.e. running robotics competitions, building competition-running software).
 
-For the Smallpeice Summer School, we are additionally sponsored by
+For the Smallpeice Summer School, we are additionally sponsored by:
 
 ## [Smallpeice Trust][smallpeice-website]
 
@@ -32,6 +32,7 @@ They support the Summer School by getting the kids involved in the first place a
 ![ARM Logo](/img/essential-knowledge/sponsors/arm.svg)
 
 ARM Holdings is a company which develops RISC architecture for computing processors.
+They sponsor a number of Smallpeice programmes including the Summer School.
 
 [uos-website]: https://www.ecs.soton.ac.uk/about
 [farnell-website]: http://uk.farnell.com/about-us
