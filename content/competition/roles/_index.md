@@ -8,13 +8,13 @@ Some roles are scheduled on a rota, generally these are the more important roles
 
 ## Role Descriptions
 
-| Name of Role      | Brief Description |
-| ----------------- | ----------------- |
-| Commentator       |                   |
-| Helpdesk          |                   |
-| Judge             |                   |
-| Match Score Entry |                   |
-| Match Scorer      |                   |
-| Reception         |                   |
-| Roving Helpers    |                   |
-| Shepherd          |                   |
+| Name of Role      | Brief Description                                            |
+| ----------------- | ------------------------------------------------------------ |
+| Commentator       | Responsible for commentating matches and building a large amount of excitement amongst those near the arenas. |
+| Helpdesk          | Provide general help and tech support                        |
+| Judge             | Responsible for making the final word on any decision relating to teams in a game. |
+| Match Score Entry | Responsible for receiving scores from the match scorers and entering them into the competition software. |
+| Match Scorer      | Responsible for being in the arena, saving robots and scoring matches. |
+| Reception         | Controls entry to the event and handles kit collection.      |
+| Roving Helpers    | Help teams in the pits with issues.                          |
+| Shepherd          | Responsible for finding teams and ensuring they make it to their matches. |
