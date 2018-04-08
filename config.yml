@@ -12,6 +12,8 @@ params:
     disableAssetsBusting: true
     ordersectionsby: "weight"
     themeVariant: "mine"
+    editURL: "https://github.com/sourcebots/volunteer-docs/tree/master/content/"
+
 
 menu:
     shortcuts:
