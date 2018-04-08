@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="163mm"
+   height="36mm"
+   viewBox="0 0 163 36"
+   version="1.1"
+   id="svg4764"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="uos.svg">
+  <defs
+     id="defs4758">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="presentation_clip_path-6">
+      <rect
+         id="rect5353"
+         height="29700"
+         width="21000"
+         y="0"
+         x="0" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="786.62328"
+     inkscape:cy="90.596322"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4761">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-261)">
+    <g
+       id="g5990"
+       transform="matrix(0.05241593,0,0,0.05241593,19.084616,377.03222)">
+      <g
+         transform="matrix(0.26458333,0,0,0.26458333,-725.85411,-2696.6315)"
+         clip-path="url(#presentation_clip_path-6)"
+         visibility="visible"
+         class="Slide"
+         id="id1-04"
+         style="visibility:visible;fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round">
+        <g
+           id="g5603"
+           class="Group">
+          <g
+             id="g5371"
+             class="com.sun.star.drawing.CustomShape">
+            <g
+               id="g5369">
+              <path
+                 id="path5363"
+                 d="m 1915,2905 v 0 l 247,134 v 0 l 73,62 62,72 v 0 l 31,52 20,51 10,62 v 72 0 l -10,103 -31,83 -51,82 -62,72 v 0 l -83,62 -93,42 -93,20 -93,11 v 0 l -124,-11 -103,-20 v 0 l -93,-42 -113,-51 -10,-351 v 0 l 30,72 31,73 42,61 51,62 v 0 l 52,52 62,31 72,20 83,11 v 0 l 82,-11 62,-20 62,-31 41,-41 v 0 l 31,-52 21,-51 21,-52 v -62 0 -62 l -21,-62 -21,-41 -31,-41 v 0 l -113,-72 -207,-103 v 0 l -82,-42 -72,-51 -62,-41 -42,-52 v 0 l -41,-52 -21,-61 -20,-62 v -62 0 l 10,-93 21,-82 51,-73 62,-61 v 0 l 83,-42 72,-41 93,-20 h 93 v 0 h 93 l 82,20 83,31 72,31 11,309 v 0 l -11,-51 -31,-52 -41,-51 -41,-52 v 0 l -52,-41 -62,-31 -62,-10 -72,-11 v 0 h -72 l -52,21 -41,21 -41,41 v 0 l -21,31 -21,41 -10,51 -10,42 v 0 l 10,51 10,42 21,30 21,42 v 0 l 103,62 z m -516,-649 z m 960,1629 z"
+                 inkscape:connector-curvature="0"
+                 style="fill:#000000;stroke:none" />
+              <rect
+                 id="rect5365"
+                 height="1631"
+                 width="961"
+                 y="2255"
+                 x="1399"
+                 style="fill:none;stroke:none" />
+              <rect
+                 id="rect5367"
+                 height="1629"
+                 width="960"
+                 y="2256"
+                 x="1400"
+                 style="fill:none;stroke:none" />
+            </g>
+          </g>
+          <g
+             id="g5381"
+             class="com.sun.star.drawing.CustomShape">
+            <g
+               id="g5379">
+              <path
+                 id="path5373"
+                 d="m 2966,2760 v 0 h 82 l 73,20 61,21 62,41 v 0 l 62,41 42,52 41,51 31,62 v 0 l 21,72 20,62 11,72 v 73 0 62 l -11,72 -20,62 -31,72 v 0 l -42,62 -41,51 -41,52 -62,51 v 0 l -62,31 -62,21 -72,20 h -73 v 0 l -113,-10 -52,-10 -51,-21 -52,-20 -41,-31 -31,-42 -42,-30 v 0 l -51,-93 -42,-93 -30,-103 v -103 0 -73 l 10,-72 20,-62 31,-72 v 0 l 31,-62 42,-51 51,-52 62,-41 v 0 l 52,-41 72,-21 72,-20 z m -21,82 v 0 l -72,10 -62,31 -41,52 -42,62 v 0 l -31,72 -20,82 -21,83 v 103 0 l 10,93 21,93 31,72 31,72 v 0 l 51,62 52,41 62,21 h 62 v 0 l 72,-11 52,-31 51,-41 42,-62 v 0 l 31,-72 20,-82 21,-83 v -103 0 l -21,-124 -31,-113 v 0 l -41,-93 -62,-72 v 0 l -31,-31 -41,-10 -41,-21 z m -495,-82 z m 1022,1124 z"
+                 inkscape:connector-curvature="0"
+                 style="fill:#000000;stroke:none" />
+              <rect
+                 id="rect5375"
+                 height="1125"
+                 width="1023"
+                 y="2760"
+                 x="2450"
+                 style="fill:none;stroke:none" />
+              <rect
+                 id="rect5377"
+                 height="1124"
+                 width="1022"
+                 y="2761"
+                 x="2451"
+                 style="fill:none;stroke:none" />
+            </g>
+          </g>
+          <g
+             id="g5391"
+             class="com.sun.star.drawing.CustomShape">
+            <g
+               id="g5389">
+              <path
+                 id="path5383"
+                 d="m 4917,2574 v 216 h 320 l -83,93 h -247 v 660 0 62 l 10,41 21,42 20,41 31,20 41,21 42,10 51,11 v 0 l 52,-11 31,-10 v 0 l 62,-41 v 0 20 l -11,31 -62,52 v 0 l -31,21 -41,20 -41,10 h -52 v 0 h -62 l -61,-20 -62,-31 -42,-41 v 0 l -41,-42 -31,-61 -20,-62 v -83 -660 h -103 z m -309,0 z m 660,1310 z"
+                 inkscape:connector-curvature="0"
+                 style="fill:#000000;stroke:none" />
+              <rect
+                 id="rect5385"
+                 height="1311"
+                 width="661"
+                 y="2574"
+                 x="4608"
+                 style="fill:none;stroke:none" />
+              <rect
+                 id="rect5387"
+                 height="1310"
+                 width="660"
+                 y="2575"
+                 x="4609"
+                 style="fill:none;stroke:none" />
+            </g>
+          </g>
+          <g
+             id="g5401"
+             class="com.sun.star.drawing.CustomShape">
+            <g
+               id="g5399">
+              <path
+                 id="path5393"
+                 d="m 5980,2761 v 0 h 62 l 72,21 62,30 51,31 v 0 l 42,52 31,52 20,61 11,73 v 701 0 31 l 10,21 v 0 l 52,30 h -331 v 0 l 31,-20 21,-21 10,-20 v -21 -619 0 -62 l -10,-51 -21,-42 -20,-41 v 0 l -41,-31 -42,-20 -51,-11 -62,-10 v 0 l -72,10 -73,31 v 0 l -61,31 -52,52 v 763 0 l 10,21 11,20 v 0 l 20,21 31,20 h -330 v 0 l 21,-20 20,-21 11,-20 v -21 -1382 0 -31 l -11,-31 v 0 l -61,-31 278,-51 v 670 0 l 93,-72 93,-52 92,-31 z m -639,-505 z m 1052,1609 z"
+                 inkscape:connector-curvature="0"
+                 style="fill:#000000;stroke:none" />
+              <rect
+                 id="rect5395"
+                 height="1610"
+                 width="1053"
+                 y="2256"
+                 x="5341"
+                 style="fill:none;stroke:none" />
+              <rect
+                 id="rect5397"
+                 height="1609"
+                 width="1052"
+                 y="2256"
+                 x="5342"
+                 style="fill:none;stroke:none" />
+            </g>
+          </g>
+          <g
+             id="g5411"
+             class="com.sun.star.drawing.CustomShape">
+            <g
+               id="g5409">
+              <path
+                 id="path5403"
+                 d="m 8767,2760 v 0 h 62 l 62,20 62,31 51,31 v 0 l 52,52 31,51 21,62 v 72 702 0 l 10,21 10,20 v 0 l 42,41 h -321 v 0 l 21,-20 21,-21 20,-20 v -21 -629 0 -62 l -10,-42 -21,-51 -31,-31 v 0 l -30,-31 -42,-21 -51,-20 h -62 v 0 l -73,10 -62,21 -61,51 -52,62 v 0 31 712 0 l 10,21 11,20 v 0 l 41,41 h -331 v 0 l 31,-20 21,-21 10,-20 v -21 -640 0 -62 l -10,-51 -21,-42 -31,-30 -30,-31 -42,-21 -51,-10 h -52 v 0 l -72,10 -62,21 -52,31 -51,51 v 774 0 21 l 10,20 v 0 l 51,41 h -330 v 0 l 31,-20 21,-21 10,-20 v -21 -877 0 -31 l -21,-31 v 0 l -31,-21 -30,-10 289,-51 v 154 0 l 72,-51 82,-52 v 0 l 42,-21 41,-20 52,-10 h 51 v 0 h 52 l 51,10 42,20 51,21 v 0 l 42,31 31,31 31,41 20,52 v 0 l 73,-83 92,-62 v 0 l 52,-31 52,-20 51,-10 z m -1321,0 z m 1724,1104 z"
+                 inkscape:connector-curvature="0"
+                 style="fill:#000000;stroke:none" />
+              <rect
+                 id="rect5405"
+                 height="1105"
+                 width="1725"
+                 y="2760"
+                 x="7446"
+                 style="fill:none;stroke:none" />
+              <rect
+                 id="rect5407"
+                 height="1104"
+                 width="1724"
+                 y="2761"
+                 x="7447"
+                 style="fill:none;stroke:none" />
+            </g>
+          </g>
+          <g
+             id="g5421"
+             class="com.sun.star.drawing.CustomShape">
+            <g
+               id="g5419">
+              <path
+                 id="path5413"
+                 d="m 10645,2574 v 216 h 320 l -83,93 h -248 v 660 0 l 11,62 10,41 10,42 31,41 21,20 41,21 42,10 51,11 v 0 l 52,-11 31,-10 v 0 l 73,-41 v 0 l -11,20 -10,31 -62,52 v 0 l -31,21 -42,20 -41,10 h -41 v 0 h -73 l -62,-20 -62,-31 -41,-41 v 0 l -41,-42 -31,-61 -11,-62 -10,-83 v -660 h -103 z m -310,0 z m 672,1310 z"
+                 inkscape:connector-curvature="0"
+                 style="fill:#000000;stroke:none" />
+              <rect
+                 id="rect5415"
+                 height="1311"
+                 width="674"
+                 y="2574"
+                 x="10334"
+                 style="fill:none;stroke:none" />
+              <rect
+                 id="rect5417"
+                 height="1310"
+                 width="672"
+                 y="2575"
+                 x="10336"
+                 style="fill:none;stroke:none" />
+            </g>
+          </g>
+          <g
+             id="g5431"
+             class="com.sun.star.drawing.CustomShape">
+            <g
+               id="g5429">
+              <path
+                 id="path5423"
+                 d="m 11523,2760 v 0 h 73 l 72,20 72,21 62,41 v 0 l 52,41 52,52 41,51 31,62 v 0 l 21,72 20,62 11,72 v 73 0 62 l -21,72 -21,62 -20,72 v 0 l -42,62 -41,51 -52,52 -51,51 v 0 l -62,31 -62,21 -73,20 h -72 v 0 l -114,-10 -62,-10 -41,-21 -52,-20 -41,-31 -41,-42 -31,-30 v 0 l -62,-93 -31,-93 -31,-103 -10,-103 v 0 l 10,-73 10,-72 21,-62 31,-72 v 0 l 31,-62 41,-51 52,-52 51,-41 v 0 l 62,-41 73,-21 62,-20 z m -20,82 v 0 l -73,10 -62,31 -51,52 -42,62 v 0 l -31,72 -20,82 -11,83 v 103 0 l 11,93 20,93 21,72 41,72 v 0 l 42,62 62,41 51,21 h 73 v 0 l 62,-11 62,-31 51,-41 42,-62 v 0 l 31,-72 20,-82 11,-83 v -103 0 l -11,-124 -31,-113 v 0 l -41,-93 -62,-72 v 0 l -31,-31 -41,-10 -52,-21 z m -506,-82 z m 1033,1124 z"
+                 inkscape:connector-curvature="0"
+                 style="fill:#000000;stroke:none" />
+              <rect
+                 id="rect5425"
+                 height="1125"
+                 width="1034"
+                 y="2760"
+                 x="10997"
+                 style="fill:none;stroke:none" />
+              <rect
+                 id="rect5427"
+                 height="1124"
+                 width="1033"
+                 y="2761"
+                 x="10997"
+                 style="fill:none;stroke:none" />
+            </g>
+          </g>
+          <g
+             id="g5441"
+             class="com.sun.star.drawing.CustomShape">
+            <g
+               id="g5439">
+              <path
+                 id="path5433"
+                 d="m 12689,2760 v 0 l 93,10 83,31 v 0 l 72,41 52,72 v 0 l 21,31 20,41 11,52 v 41 702 0 21 l 10,20 v 0 l 52,41 h -321 v 0 l 21,-10 21,-31 10,-20 10,-21 v -619 0 l -10,-62 -10,-52 -21,-51 -21,-31 -41,-31 -41,-21 -52,-10 -52,-10 v 0 l -72,10 -62,31 v 0 l -62,31 -41,51 v 764 0 21 l 10,20 v 0 l 52,41 h -331 v 0 l 31,-10 10,-31 11,-20 10,-21 v -877 0 l -10,-31 -11,-21 -20,-20 -41,-21 289,-51 v 165 0 l 62,-62 82,-52 v 0 l 52,-21 41,-20 52,-10 z m -619,0 z m 1033,1104 z"
+                 inkscape:connector-curvature="0"
+                 style="fill:#000000;stroke:none" />
+              <rect
+                 id="rect5435"
+                 height="1105"
+                 width="1034"
+                 y="2760"
+                 x="12070"
+                 style="fill:none;stroke:none" />
+              <rect
+                 id="rect5437"
+                 height="1104"
+                 width="1033"
+                 y="2761"
+                 x="12070"
+                 style="fill:none;stroke:none" />
+            </g>
+          </g>
+          <g
+             id="g5451"
+             class="com.sun.star.drawing.CustomShape">
+            <g
+               id="g5449">
+              <path
+                 id="path5443"
+                 d="m 10243,3069 v 0 l -51,-103 -62,-72 v 0 l -73,-62 -72,-42 v 0 l -82,-20 -83,-10 v 0 l -93,10 -93,31 v 0 l -72,51 -62,52 v -144 l -278,61 v 0 l 30,11 31,20 11,31 10,31 v 1393 0 l -10,31 -11,31 -20,20 -21,10 h 320 v 0 l -21,-10 -20,-20 -11,-31 -10,-31 v -1300 0 l 52,-52 51,-30 v 0 l 62,-31 73,-11 v 0 l 61,11 52,20 62,31 52,41 v 0 l 41,62 31,73 20,92 v 114 0 103 l -20,93 -31,82 -41,62 v 0 l -52,62 -52,31 -72,31 h -72 v 0 h -52 l -41,-10 -41,-21 -42,-41 52,144 v 0 l 72,21 h 83 v 0 l 113,-11 52,-10 52,-20 51,-31 41,-21 42,-41 41,-42 v 0 l 62,-92 41,-93 31,-103 10,-104 v 0 l -10,-134 z M 9222,2760 Z m 1063,1640 z"
+                 inkscape:connector-curvature="0"
+                 style="fill:#000000;stroke:none" />
+              <rect
+                 id="rect5445"
+                 height="1641"
+                 width="1064"
+                 y="2760"
+                 x="9222"
+                 style="fill:none;stroke:none" />
+              <rect
+                 id="rect5447"
+                 height="1640"
+                 width="1063"
+                 y="2761"
+                 x="9222"
+                 style="fill:none;stroke:none" />
+            </g>
+          </g>
+          <g
+             id="g5461"
+             class="com.sun.star.drawing.CustomShape">
+            <g
+               id="g5459">
+              <path
+                 id="path5453"
+                 d="m 4175,3719 v 0 l -62,20 -73,10 v 0 h -51 l -42,-20 -41,-21 -31,-41 v 0 l -31,-41 -31,-52 -10,-62 v -62 -690 l -289,51 v 0 l 41,21 20,20 21,21 v 31 546 0 l 10,104 21,92 31,73 52,61 v 0 l 62,52 51,31 62,20 h 73 v 0 h 72 l 72,-20 62,-31 62,-52 41,-134 v 0 l -41,42 z m -661,-959 z m 754,1124 z"
+                 inkscape:connector-curvature="0"
+                 style="fill:#000000;stroke:none" />
+              <rect
+                 id="rect5455"
+                 height="1125"
+                 width="755"
+                 y="2760"
+                 x="3514"
+                 style="fill:none;stroke:none" />
+              <rect
+                 id="rect5457"
+                 height="1124"
+                 width="754"
+                 y="2761"
+                 x="3515"
+                 style="fill:none;stroke:none" />
+            </g>
+          </g>
+          <g
+             id="g5471"
+             class="com.sun.star.drawing.CustomShape">
+            <g
+               id="g5469">
+              <path
+                 id="path5463"
+                 d="m 4495,3677 v -917 l -289,51 v 0 l 41,10 20,21 v 0 l 21,31 v 31 722 l 10,93 v 0 0 0 61 l 21,42 v 0 l 21,31 41,30 207,-72 v 0 l -42,-10 -31,-31 -20,-41 z m -289,-917 z m 382,1124 z"
+                 inkscape:connector-curvature="0"
+                 style="fill:#000000;stroke:none" />
+              <rect
+                 id="rect5465"
+                 height="1125"
+                 width="383"
+                 y="2760"
+                 x="4206"
+                 style="fill:none;stroke:none" />
+              <rect
+                 id="rect5467"
+                 height="1124"
+                 width="382"
+                 y="2761"
+                 x="4207"
+                 style="fill:none;stroke:none" />
+            </g>
+          </g>
+          <g
+             id="g5481"
+             class="com.sun.star.drawing.CustomShape">
+            <g
+               id="g5479">
+              <path
+                 id="path5473"
+                 d="m 7334,3770 v 0 l -11,-21 v -51 -629 0 l -10,-83 -21,-62 -31,-61 -51,-42 v 0 l -52,-20 -62,-21 -72,-20 h -73 v 0 l -93,10 -93,20 -93,31 -82,52 v 289 0 l 31,-73 20,-61 42,-52 31,-41 v 0 l 41,-41 52,-21 62,-21 62,-10 v 0 l 41,10 41,11 42,20 20,21 v 0 l 31,31 11,41 10,31 v 41 0 72 l -10,31 v 0 l -31,31 -52,21 v 0 l -196,62 v 0 l -124,41 -73,31 v 0 l -72,52 -41,61 -31,73 -10,82 v 0 41 l 20,52 21,41 31,52 v 0 l 41,41 41,31 62,20 h 62 v 0 h 83 l 72,-20 73,-41 72,-52 41,-113 v 0 l -51,41 -62,31 -62,20 h -73 v 0 h -31 l -41,-10 -31,-10 -21,-31 v 0 l -20,-21 -21,-41 -10,-31 v -41 0 -41 l 10,-31 21,-31 20,-31 v 0 l 62,-41 83,-42 v 0 l 165,-51 83,-42 v 382 0 72 0 l 10,72 11,42 v 0 l 31,31 31,30 186,-72 v 0 l -42,-20 z M 6487,2760 Z m 909,1124 z"
+                 inkscape:connector-curvature="0"
+                 style="fill:#000000;stroke:none" />
+              <rect
+                 id="rect5475"
+                 height="1125"
+                 width="910"
+                 y="2760"
+                 x="6487"
+                 style="fill:none;stroke:none" />
+              <rect
+                 id="rect5477"
+                 height="1124"
+                 width="909"
+                 y="2761"
+                 x="6487"
+                 style="fill:none;stroke:none" />
+            </g>
+          </g>
+          <g
+             id="g5491"
+             class="com.sun.star.drawing.CustomShape">
+            <g
+               id="g5489">
+              <path
+                 id="path5483"
+                 d="m 6095,1914 v 382 0 l 10,52 21,41 21,31 20,11 41,10 42,10 v 0 h 41 l 31,-10 31,-21 20,-20 11,-21 10,-31 10,-52 v -382 0 l -10,-31 -21,-10 h 104 v 0 l -21,10 v 31 l -10,372 v 0 52 l -11,41 -20,41 -31,21 -31,21 -31,20 -83,11 v 0 l -72,-11 -41,-10 -31,-21 -41,-31 -21,-31 -21,-51 v -52 -372 0 l -10,-31 -20,-10 h 144 v 0 l -21,10 z m -113,-41 z m 495,620 z"
+                 inkscape:connector-curvature="0"
+                 style="fill:#000000;stroke:none" />
+              <rect
+                 id="rect5485"
+                 height="621"
+                 width="496"
+                 y="1873"
+                 x="5982"
+                 style="fill:none;stroke:none" />
+              <rect
+                 id="rect5487"
+                 height="620"
+                 width="495"
+                 y="1874"
+                 x="5982"
+                 style="fill:none;stroke:none" />
+            </g>
+          </g>
+          <g
+             id="g5501"
+             class="com.sun.star.drawing.CustomShape">
+            <g
+               id="g5499">
+              <path
+                 id="path5493"
+                 d="m 7012,1915 v 0 -31 l -20,-10 h 93 v 0 l -21,10 v 31 587 0 l -217,-268 -216,-268 v 475 0 l 10,31 10,10 h -93 v 0 l 21,-10 v -31 -495 0 -21 l -10,-21 v 0 l -11,-20 -30,-10 h 134 l 350,433 z m -484,-41 z m 557,629 z"
+                 inkscape:connector-curvature="0"
+                 style="fill:#000000;stroke:none" />
+              <rect
+                 id="rect5495"
+                 height="630"
+                 width="558"
+                 y="1874"
+                 x="6528"
+                 style="fill:none;stroke:none" />
+              <rect
+                 id="rect5497"
+                 height="629"
+                 width="557"
+                 y="1874"
+                 x="6528"
+                 style="fill:none;stroke:none" />
+            </g>
+          </g>
+          <g
+             id="g5511"
+             class="com.sun.star.drawing.CustomShape">
+            <g
+               id="g5509">
+              <path
+                 id="path5503"
+                 d="m 7312,1873 v 0 l -21,10 -10,31 v 527 0 l 10,31 21,11 h -134 v 0 l 10,-11 10,-31 v -527 0 l -10,-31 -10,-10 z m -134,0 z m 134,610 z"
+                 inkscape:connector-curvature="0"
+                 style="fill:#000000;stroke:none" />
+              <rect
+                 id="rect5505"
+                 height="611"
+                 width="136"
+                 y="1873"
+                 x="7177"
+                 style="fill:none;stroke:none" />
+              <rect
+                 id="rect5507"
+                 height="610"
+                 width="134"
+                 y="1874"
+                 x="7179"
+                 style="fill:none;stroke:none" />
+            </g>
+          </g>
+          <g
+             id="g5521"
+             class="com.sun.star.drawing.CustomShape">
+            <g
+               id="g5519">
+              <path
+                 id="path5513"
+                 d="m 7828,1915 v 0 -31 l -21,-10 h 104 v 0 l -21,20 -21,21 v 0 l -216,587 v 0 l -248,-587 v 0 l -21,-21 -30,-20 h 165 v 0 l -11,10 -10,10 10,31 v 0 l 155,413 v 0 z m -474,-41 z m 557,629 z"
+                 inkscape:connector-curvature="0"
+                 style="fill:#000000;stroke:none" />
+              <rect
+                 id="rect5515"
+                 height="630"
+                 width="558"
+                 y="1874"
+                 x="7354"
+                 style="fill:none;stroke:none" />
+              <rect
+                 id="rect5517"
+                 height="629"
+                 width="557"
+                 y="1874"
+                 x="7354"
+                 style="fill:none;stroke:none" />
+            </g>
+          </g>
+          <g
+             id="g5531"
+             class="com.sun.star.drawing.CustomShape">
+            <g
+               id="g5529">
+              <path
+                 id="path5523"
+                 d="m 8283,1955 v 0 l -31,-31 -41,-10 v 0 h -156 v 207 h 145 v 0 l 21,-11 10,-10 v 93 0 l -10,-21 h -21 -145 v 259 0 l 104,10 v 0 h 62 l 41,-10 31,-21 31,-31 -20,104 h -362 v 0 l 20,-11 11,-31 v -527 0 l -11,-31 -20,-10 h 341 z m -341,-82 z m 383,610 z"
+                 inkscape:connector-curvature="0"
+                 style="fill:#000000;stroke:none" />
+              <rect
+                 id="rect5525"
+                 height="611"
+                 width="384"
+                 y="1873"
+                 x="7942"
+                 style="fill:none;stroke:none" />
+              <rect
+                 id="rect5527"
+                 height="610"
+                 width="383"
+                 y="1874"
+                 x="7942"
+                 style="fill:none;stroke:none" />
+            </g>
+          </g>
+          <g
+             id="g5541"
+             class="com.sun.star.drawing.CustomShape">
+            <g
+               id="g5539">
+              <path
+                 id="path5533"
+                 d="m 8613,2172 v 0 l 31,11 31,20 31,42 v 0 l 51,82 42,73 41,51 v 0 l 31,21 21,11 h -93 v 0 h -21 l -21,-11 -31,-31 v 0 l -103,-165 v 0 l -41,-52 -21,-21 h -31 v 0 h -52 v 238 0 l 11,31 10,11 h -134 v 0 l 20,-11 11,-31 v -527 0 l -11,-31 -20,-10 h 175 v 0 h 62 l 42,10 41,21 31,20 21,21 10,31 10,41 v 0 42 l -10,31 -21,20 -20,21 -42,31 z m -135,-258 v 238 0 h 52 v 0 h 52 l 41,-31 21,-11 10,-31 10,-20 v -31 0 -42 l -20,-41 -42,-31 h -20 l -42,-10 v 0 z m -113,-41 z m 527,610 z"
+                 inkscape:connector-curvature="0"
+                 style="fill:#000000;stroke:none" />
+              <rect
+                 id="rect5535"
+                 height="611"
+                 width="528"
+                 y="1873"
+                 x="8365"
+                 style="fill:none;stroke:none" />
+              <rect
+                 id="rect5537"
+                 height="610"
+                 width="527"
+                 y="1874"
+                 x="8365"
+                 style="fill:none;stroke:none" />
+            </g>
+          </g>
+          <g
+             id="g5551"
+             class="com.sun.star.drawing.CustomShape">
+            <g
+               id="g5549">
+              <path
+                 id="path5543"
+                 d="m 9262,2308 v 0 41 l -20,31 -21,31 -20,31 -31,21 -31,20 -41,10 h -31 v 0 l -52,-10 -51,-10 -62,-31 -10,-134 v 0 l 20,51 31,42 52,41 30,10 h 31 v 0 h 31 l 31,-10 21,-10 20,-21 21,-41 v -31 0 -31 l -10,-31 -31,-31 -52,-31 -62,-31 v 0 l -51,-31 -41,-41 -31,-41 v -52 0 -31 l 10,-31 21,-31 31,-20 51,-31 72,-10 v 0 l 62,10 31,10 31,10 10,124 v 0 l -20,-41 -31,-31 -41,-31 -31,-10 h -31 v 0 h -42 l -30,31 -21,31 v 31 0 30 l 31,31 31,31 62,21 v 0 l 61,31 52,41 21,21 20,31 10,31 z m -370,-443 z m 371,629 z"
+                 inkscape:connector-curvature="0"
+                 style="fill:#000000;stroke:none" />
+              <rect
+                 id="rect5545"
+                 height="630"
+                 width="372"
+                 y="1865"
+                 x="8892"
+                 style="fill:none;stroke:none" />
+              <rect
+                 id="rect5547"
+                 height="629"
+                 width="371"
+                 y="1865"
+                 x="8892"
+                 style="fill:none;stroke:none" />
+            </g>
+          </g>
+          <g
+             id="g5561"
+             class="com.sun.star.drawing.CustomShape">
+            <g
+               id="g5559">
+              <path
+                 id="path5553"
+                 d="m 9460,1873 v 0 l -21,10 -11,31 v 527 0 l 11,31 21,11 h -135 v 0 l 10,-11 10,-31 v -527 0 l -10,-31 -10,-10 z m -135,0 z m 135,610 z"
+                 inkscape:connector-curvature="0"
+                 style="fill:#000000;stroke:none" />
+              <rect
+                 id="rect5555"
+                 height="611"
+                 width="136"
+                 y="1873"
+                 x="9325"
+                 style="fill:none;stroke:none" />
+              <rect
+                 id="rect5557"
+                 height="610"
+                 width="135"
+                 y="1874"
+                 x="9325"
+                 style="fill:none;stroke:none" />
+            </g>
+          </g>
+          <g
+             id="g5571"
+             class="com.sun.star.drawing.CustomShape">
+            <g
+               id="g5569">
+              <path
+                 id="path5563"
+                 d="m 9789,1914 v 527 0 31 l 21,11 h -135 v 0 l 21,-11 v -31 -527 0 l -145,10 v 0 h -10 l -21,11 -20,20 v -82 h 475 v 82 0 l -10,-20 -31,-11 v 0 z m -289,-41 z m 476,610 z"
+                 inkscape:connector-curvature="0"
+                 style="fill:#000000;stroke:none" />
+              <rect
+                 id="rect5565"
+                 height="611"
+                 width="477"
+                 y="1873"
+                 x="9500"
+                 style="fill:none;stroke:none" />
+              <rect
+                 id="rect5567"
+                 height="610"
+                 width="476"
+                 y="1874"
+                 x="9501"
+                 style="fill:none;stroke:none" />
+            </g>
+          </g>
+          <g
+             id="g5581"
+             class="com.sun.star.drawing.CustomShape">
+            <g
+               id="g5579">
+              <path
+                 id="path5573"
+                 d="m 10512,1873 v 0 l -41,20 -21,31 -144,269 v 248 0 l 10,31 31,11 h -155 v 0 l 21,-11 10,-10 v -21 -248 l -176,-279 v 0 l -20,-21 -31,-20 h 175 v 0 h -10 l -10,10 v 21 l 10,20 124,228 124,-238 v 0 -21 -10 l -21,-10 z m -516,0 z m 517,610 z"
+                 inkscape:connector-curvature="0"
+                 style="fill:#000000;stroke:none" />
+              <rect
+                 id="rect5575"
+                 height="611"
+                 width="518"
+                 y="1873"
+                 x="9996"
+                 style="fill:none;stroke:none" />
+              <rect
+                 id="rect5577"
+                 height="610"
+                 width="517"
+                 y="1874"
+                 x="9996"
+                 style="fill:none;stroke:none" />
+            </g>
+          </g>
+          <g
+             id="g5591"
+             class="com.sun.star.drawing.CustomShape">
+            <g
+               id="g5589">
+              <path
+                 id="path5583"
+                 d="m 11058,2493 v 0 l -51,-10 -52,-20 -52,-21 -41,-41 -31,-52 -31,-51 -10,-62 -10,-62 v 0 l 10,-62 10,-52 31,-51 31,-52 41,-41 52,-31 52,-10 72,-10 v 0 l 41,10 52,10 52,31 41,31 31,52 31,51 21,62 v 72 0 72 l -21,62 -31,52 -41,51 -42,31 -51,21 -52,20 z m -186,-329 v 0 l 11,72 10,62 21,41 20,41 31,31 31,21 42,10 31,10 v 0 l 41,-10 41,-10 31,-21 21,-31 21,-41 20,-41 11,-52 v -62 0 -62 l -11,-51 -20,-52 -21,-41 -21,-31 -31,-21 -41,-20 h -41 v 0 h -42 l -41,10 -31,31 -31,21 -21,41 -10,41 -10,52 z m -92,-299 z m 568,629 z"
+                 inkscape:connector-curvature="0"
+                 style="fill:#000000;stroke:none" />
+              <rect
+                 id="rect5585"
+                 height="630"
+                 width="569"
+                 y="1865"
+                 x="10780"
+                 style="fill:none;stroke:none" />
+              <rect
+                 id="rect5587"
+                 height="629"
+                 width="568"
+                 y="1865"
+                 x="10781"
+                 style="fill:none;stroke:none" />
+            </g>
+          </g>
+          <g
+             id="g5601"
+             class="com.sun.star.drawing.CustomShape">
+            <g
+               id="g5599">
+              <path
+                 id="path5593"
+                 d="m 11544,2483 h -134 v 0 l 20,-11 v -31 -527 0 -31 l -20,-10 h 361 v 82 0 l -31,-31 -52,-10 v 0 h -165 v 207 h 144 v 0 l 21,-11 10,-10 v 93 0 l -10,-21 h -21 -144 v 269 0 31 z m -134,-610 z m 361,610 z"
+                 inkscape:connector-curvature="0"
+                 style="fill:#000000;stroke:none" />
+              <rect
+                 id="rect5595"
+                 height="611"
+                 width="362"
+                 y="1873"
+                 x="11410"
+                 style="fill:none;stroke:none" />
+              <rect
+                 id="rect5597"
+                 height="610"
+                 width="361"
+                 y="1874"
+                 x="11410"
+                 style="fill:none;stroke:none" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
