@@ -49,7 +49,7 @@ a:hover {
 }
 
 #body:before {
-    content: "Volunteering documentation";
+    content: "Volunteering Documentation";
     text-align: center;
     font-weight: bold;
     background: var(--MENU-HEADER-BG-color);
