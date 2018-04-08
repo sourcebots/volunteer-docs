@@ -3,4 +3,8 @@ title: Essential Knowledge
 weight: 1
 ---
 
-## Quick Start
+This section contains knowledge that is considered essential for volunteers.
+
+The following topics are covered in this section:
+
+{{% children  %}}
