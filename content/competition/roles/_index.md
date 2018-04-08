@@ -16,5 +16,5 @@ Some roles are scheduled on a rota, generally these are the more important roles
 | [Match Score Entry](match-score-entry) | Responsible for receiving scores from the match scorers and entering them into the competition software. |
 | [Match Scorer](match-scorer)      | Responsible for being in the arena, saving robots and scoring matches. |
 | Reception         | Controls entry to the event and handles kit collection.      |
-| Roving Helpers    | Help teams in the pits with issues.                          |
+| Roving Helper     | Help teams in the pits with issues.                          |
 | Shepherd          | Responsible for finding teams and ensuring they make it to their matches. |
