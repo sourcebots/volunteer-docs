@@ -3,6 +3,11 @@ title: Homepage
 ---
 
 # SourceBots Volunteer Documentation
+
+{{% notice info %}}
+This documentation is currently under development and there may be unfinished sections present.
+{{% /notice %}}
+
 This documentation contains information for volunteers about how SourceBots operates.
 
 ## What is SourceBots?
