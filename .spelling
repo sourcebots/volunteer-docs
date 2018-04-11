@@ -1,14 +1,17 @@
 000 Please ensure this file is ALPHABETICALLY SORTED, (numbers, uppercase, lower case), this is to ensure merging works properly
 6pm
 CircleCI
+Farnell
 GitHub
 Mainroad
 Netlify
+Smallpeice
 SourceBots
 blocklyscienceday
 compstate-smallpeice2017
 dfu-bootloader
 dropdown
+element14
 mixtape-smallpeice2017
 motor-v4-fw
 motor-v4-hw
@@ -27,3 +30,4 @@ sb2018-game-presentation
 sb2018-rules
 srcomp-kiosk
 sym
+typora

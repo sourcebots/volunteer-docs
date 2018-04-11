@@ -15,7 +15,7 @@ To make your changes you need to be logged in on GitHub, if you don't have an ac
 - All content is available in the [content folder][content-dir].
 - All images/extra files are in the [static folder][static-dir].
 
-All pages are stored as [markdown][markdown-ref] files (ones ending in `.md`). Once you've found the file for the page you want to edit  (`updating-volunteer-docs.md` in this case), simply open the file, then click on the little pencil in the top-right corner to start editing.
+All pages are stored as [markdown][markdown-ref] files (ones ending in `.md`). Once you've found the file for the page you want to edit (`updating-volunteer-docs.md` in this case), simply open the file, then click on the little pencil in the top-right corner to start editing. If you don't know how to edit markdown and/or you find the GitHub editor is limiting you, we recommend you edit the files in [typora][typora], which is a WYSIWYG editor (like Microsoft Word).
 
 ![Pencil icon to click on for editing](/img/essential-knowledge/updating-docs/pencil.png)
 
@@ -70,3 +70,4 @@ Once you submit a pull request, it is then sent for review by us. If you know a 
 [markdown-ref]: http://commonmark.org/
 [spelling-file]: https://github.com/sourcebots/volunteer-docs/blob/master/.spelling
 [register-github]: https://github.com/join
+[typora]: https://typora.io
