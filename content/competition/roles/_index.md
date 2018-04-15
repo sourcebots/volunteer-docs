@@ -6,6 +6,8 @@ This section contains information on the various roles that we assign to volunte
 
 Some roles are scheduled on a rota, generally these are the more important roles that are required for the competition to function.
 
+This shouldn't be considered as an exhaustive list of roles, as many other roles are needed during the competition.
+
 ## Role Descriptions
 
 | Name of Role      | Brief Description                                            |
