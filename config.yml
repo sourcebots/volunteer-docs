@@ -19,6 +19,9 @@ menu:
     shortcuts:
         - name: "<i class='fa fa-github'></i> Github Repo"
           url: https://github.com/sourcebots/volunteer-docs
+          
+        - name: "<i class='fa fa-trophy'></i> SRComp Docs"
+          url: https://github.com/PeterJCLaw/srcomp/wiki
 
         - name: "<i class='fa fa-globe'></i> Website"
           url: https://sourcebots.co.uk/
