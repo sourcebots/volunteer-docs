@@ -9,7 +9,8 @@ You will need:
 - Raspberry Pi
 - Pi power cable / power adapter
 - Charged LiPo battery
-- Micro USB cable
+- Power board
+- Micro USB cable for connecting the power board to the pi
 - USB Flash Drive
 - Monitor with HDMI connection
 - Keyboard
@@ -34,7 +35,7 @@ Also useful:
     - There are two user accounts.
         - `root`
         - `pi` - This is what you should usually use.
-        - Both user accounts have the password `beeeeees`, bees with 6 `e`'s.
+    - Both user accounts have the password `beeeeees`, bees with 6 `e`'s.
 - After logging in, you will get a bash prompt `pi@raspberrypi`, this can be used to issue commands to the system.
 
 ## Using the Terminal to debug
