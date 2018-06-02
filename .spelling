@@ -34,5 +34,6 @@ srcomp-kiosk
 stdout
 sym
 systemd
+systemd-nspawn
 typora
 usb

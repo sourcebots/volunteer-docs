@@ -53,13 +53,13 @@ by default.
 
 ### Running code directly
 
-It can be useful to run code directly, rather than using the start button.
+It can be useful to run code directly, rather than under the `runusb` service. This will run the code as the user that you are logged in as, and outside of the `systemd-nspawn` container that `runusb` executes them in.
 
 - Before starting, you will probably want to stop the `runusb` service. This stops multiple versions of the code executing simultaneously.
 - Stop runusb: `sudo systemctl stop runusb`
 - When the usb drive is plugged in, it is mounted by `usbmount` as `/media/usb0`, `/media/usb1`, `/media/usb2`, etc.
 - You can run the code using python: `python3 main.py`
-    - The start button will need to be pressed in order to start the code, it will flash as usual once the program has started.
+    - The start button will probably need to be pressed in order to start the code, it will flash as usual once the program has started. An exception to this is if the code has the `wait_for_start_button=False`, in this case, the code will start executing immediately. 
     - The logs that would usually appear under runusb are printed to the console (stdout).
 
 Sometimes when running code directly, you may find it helpful to restart `robotd`: `sudo systemctl restart robotd`
