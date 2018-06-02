@@ -1,6 +1,7 @@
 000 Please ensure this file is ALPHABETICALLY SORTED, (numbers, uppercase, lower case), this is to ensure merging works properly
 6pm
 CircleCI
+Debian
 Farnell
 GitHub
 LiPo
@@ -10,7 +11,6 @@ Smallpeice
 SourceBots
 blocklyscienceday
 compstate-smallpeice2017
-debian
 dfu-bootloader
 dropdown
 element14
