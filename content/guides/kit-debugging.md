@@ -42,8 +42,7 @@ Also useful:
 
 ### Systemd logs
 
-If you start the code using the start button, you will notice that no output is logged to the screen. This is because the debug logs are sent to the `systemd` log
-by default.
+If you start the code using the start button, you will notice that no output is logged to the screen. This is because the debug logs are sent to the `systemd` log by default.
 
 - You can view the systemd log for a module by executing: `journalctl -u <module>`.
     - This will show the logs for module, including what happened on previous boots.
