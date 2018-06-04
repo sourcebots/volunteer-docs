@@ -48,7 +48,7 @@ If you start the code using the start button, you will notice that no output is 
     - This will show the logs for module, including what happened on previous boots.
 - It can also be useful to see the logs live as the code executes: `journalctl -fu <module>`
 - It is helpful to use this for debugging the following modules:
-    - `runusb` - This service runs the code on the usb
+    - `runusb` - This service runs the code on the USB
     - `robotd` - This service abstracts the hardware of the robot.
 
 ### Running code directly
@@ -57,7 +57,7 @@ It can be useful to run code directly, rather than under the `runusb` service. T
 
 - Before starting, you will probably want to stop the `runusb` service. This stops multiple versions of the code executing simultaneously.
 - Stop runusb: `sudo systemctl stop runusb`
-- When the usb drive is plugged in, it is mounted by `usbmount` as `/media/usb0`, `/media/usb1`, `/media/usb2`, etc.
+- When the USB drive is plugged in, it is mounted by `usbmount` as `/media/usb0`, `/media/usb1`, `/media/usb2`, etc.
 - You can run the code using python: `python3 main.py`
     - The start button will probably need to be pressed in order to start the code, it will flash as usual once the program has started. An exception to this is if the code has the `wait_for_start_button=False`, in this case, the code will start executing immediately. 
     - The logs that would usually appear under runusb are printed to the console (stdout).
@@ -70,8 +70,8 @@ When releasing updates, it is important to ensure that new versions of the libra
 
 We can install an updated version of the library using a `.deb` package. The instructions for this can vary by module, but most only require a couple of commands:
 
-- Firstly, copy the new code to a usb drive.
-- Then, copy the code from the usb drive to the home directory on the pi.
+- Firstly, copy the new code to a USB drive.
+- Then, copy the code from the USB drive to the home directory on the pi.
 - Now, build the Debian package: `debuild -uc -us`
 - The Debian package will be saved in the parent directory.
 - We can then install the new package: `sudo dpkg -i file.deb`
