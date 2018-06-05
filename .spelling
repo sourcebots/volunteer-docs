@@ -2,12 +2,14 @@
 6pm
 blocklyscienceday
 CircleCI
+Debian
 compstate-smallpeice2017
 dfu-bootloader
 dropdown
 element14
 Farnell
 GitHub
+LiPo
 Mainroad
 mixtape-smallpeice2017
 motor-v4-fw
@@ -29,5 +31,9 @@ sb2018-rules
 Smallpeice
 SourceBots
 srcomp-kiosk
+stdout
 sym
+systemd
+systemd-nspawn
 typora
+usb
