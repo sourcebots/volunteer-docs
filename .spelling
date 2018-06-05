@@ -1,8 +1,10 @@
 000 Please ensure this file is ALPHABETICALLY SORTED, (numbers, uppercase, lower case), this is to ensure merging works properly
 6pm
 CircleCI
+Debian
 Farnell
 GitHub
+LiPo
 Mainroad
 Netlify
 Smallpeice
@@ -29,5 +31,9 @@ sb-vision
 sb2018-game-presentation
 sb2018-rules
 srcomp-kiosk
+stdout
 sym
+systemd
+systemd-nspawn
 typora
+usb
