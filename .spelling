@@ -1,22 +1,20 @@
-000 Please ensure this file is ALPHABETICALLY SORTED, (numbers, uppercase, lower case), this is to ensure merging works properly
+000 Please ensure this file is ALPHABETICALLY SORTED, (numbers, letters), this is to ensure merging works properly
 6pm
+blocklyscienceday
 CircleCI
+compstate-smallpeice2017
 Debian
+dfu-bootloader
+dropdown
+element14
 Farnell
 GitHub
 LiPo
 Mainroad
-Netlify
-Smallpeice
-SourceBots
-blocklyscienceday
-compstate-smallpeice2017
-dfu-bootloader
-dropdown
-element14
 mixtape-smallpeice2017
 motor-v4-fw
 motor-v4-hw
+Netlify
 pcb-util
 pcbmedals
 pkg
@@ -30,6 +28,8 @@ sb-techday
 sb-vision
 sb2018-game-presentation
 sb2018-rules
+Smallpeice
+SourceBots
 srcomp-kiosk
 stdout
 sym
